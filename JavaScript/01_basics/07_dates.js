@@ -11,4 +11,4 @@ UTC:- ${myDate.toUTCString()}
 :- ${myDate.valueOf()}
 `);
 
-console.log(myDate); 
+console.log(myDate);
