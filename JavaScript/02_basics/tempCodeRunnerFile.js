@@ -1,1 +1,1 @@
-console.log("A=",A);
+console.log(JsUser);
